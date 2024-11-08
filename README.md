@@ -56,5 +56,13 @@ Similarly to the Math Resource Room, the number of actual students shows a sligh
 
  - 36 Students have used WL Resource 63 times (1.75 Sign-ins per student)
  - 5 Students account for 46% of all Sign-ins
- - 29 Students have signed in only once									
+ - 29 Students have signed in only once
 
+### What students are signing in multiple times?
+
+ - In each Resource Room, several students are only signing in once, while others are signing in repeatedly.
+ - For each room and math or world language course, we wanted to be able to pull up the names of students that had used the Resource Room.
+
+![image](https://github.com/user-attachments/assets/de6bba65-87e3-46ff-a566-bceaaf63a097)
+
+ 
