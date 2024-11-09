@@ -7,7 +7,10 @@ Resource Rooms are spaces in the building that students can utilize during their
 ### What Resource Rooms are used most often by students seeking help with classwork?
 
 - Room attendance data was linked by student ID (with VLOOKUP) to school roster data to capture the grade level for each student signing into each room.
-- Names of students were changed to a randomly generated list of names
+- Data cleaning:
+-   Names of students were changed to a randomly generated list of names
+-   Course titles were adjusted to be more intuitive and easy to understand
+-   Duplicate entries removed, sign-ins of peer tutors removed, entries from all periods were compiled into one column, etc.
 - The pivot table below shows to what degree each room is being utilized and how much freshmen, sophomores, juniors, and seniors are using each room.
   
 ![image](https://github.com/user-attachments/assets/d20c3240-aa60-44fb-9a9c-7fd9535e566e)
